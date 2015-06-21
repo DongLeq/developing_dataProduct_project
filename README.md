@@ -1,4 +1,4 @@
-# Developing_dataProduct_project
+# Developing data product project
 
 ### Shiny Application
 
